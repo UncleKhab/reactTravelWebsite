@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactTravelWebsite/static/css/main.83d836a9.chunk.css",
-    "main.js": "/reactTravelWebsite/static/js/main.00985070.chunk.js",
-    "main.js.map": "/reactTravelWebsite/static/js/main.00985070.chunk.js.map",
+    "main.js": "/reactTravelWebsite/static/js/main.ab58a0dc.chunk.js",
+    "main.js.map": "/reactTravelWebsite/static/js/main.ab58a0dc.chunk.js.map",
     "runtime-main.js": "/reactTravelWebsite/static/js/runtime-main.652af8b0.js",
     "runtime-main.js.map": "/reactTravelWebsite/static/js/runtime-main.652af8b0.js.map",
     "static/js/2.6e36e38f.chunk.js": "/reactTravelWebsite/static/js/2.6e36e38f.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.652af8b0.js",
     "static/js/2.6e36e38f.chunk.js",
     "static/css/main.83d836a9.chunk.css",
-    "static/js/main.00985070.chunk.js"
+    "static/js/main.ab58a0dc.chunk.js"
   ]
 }
